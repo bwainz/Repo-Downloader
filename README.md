@@ -1,1 +1,1 @@
-tools->NuGet Package Manager->Package Manager Console then run Install-Package Octokit
+tools -> NuGet Package Manager -> Package Manager Console then run Install-Package Octokit
